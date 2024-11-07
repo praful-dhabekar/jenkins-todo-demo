@@ -1,0 +1,1 @@
+import{j as t,t as o,a as r}from"./todoStore.BlCqvhab.js";import"./index.DhYZZe0J.js";import{u as m}from"./index.CZ3_CMd1.js";const g=()=>{const e=m(r);return t.jsx("button",{onClick:o,className:"theme-toggle",children:e==="light"?"🌙":"☀️"})};export{g as ThemeToggle};
